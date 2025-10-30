@@ -33,7 +33,7 @@ It automates all five login scenarios and includes a professional **Extent Repor
 | 5 | Logout functionality | Click logout after successful login | Redirects to login page |
 
 ---
-## Allure Report Sreenshots
+## Allure Report Screenshots
 ### Behaviour Section
 ![Behaviour Section](https://github.com/Code-By-Adarsh/QA-Automation-Assignment/blob/18127dee8648aea1cd1e8c8ad1c68ed8d0b6f7f1/All%20Screenshots/allure%20behaviour%20section.png )
 
@@ -53,7 +53,7 @@ It automates all five login scenarios and includes a professional **Extent Repor
 ![Severity Graph](https://github.com/Code-By-Adarsh/QA-Automation-Assignment/blob/18127dee8648aea1cd1e8c8ad1c68ed8d0b6f7f1/All%20Screenshots/allure%20severity%20graph.png )
 
 ### Status
-!{Status](https://github.com/Code-By-Adarsh/QA-Automation-Assignment/blob/18127dee8648aea1cd1e8c8ad1c68ed8d0b6f7f1/All%20Screenshots/allure%20status.png )
+![Status](https://github.com/Code-By-Adarsh/QA-Automation-Assignment/blob/18127dee8648aea1cd1e8c8ad1c68ed8d0b6f7f1/All%20Screenshots/allure%20status.png )
 
 ### Suites Section
 ![Suite Section](https://github.com/Code-By-Adarsh/QA-Automation-Assignment/blob/18127dee8648aea1cd1e8c8ad1c68ed8d0b6f7f1/All%20Screenshots/allure%20suite%20section.png)
@@ -61,9 +61,32 @@ It automates all five login scenarios and includes a professional **Extent Repor
 ### Timeline Section
 ![Timeline Section](https://github.com/Code-By-Adarsh/QA-Automation-Assignment/blob/18127dee8648aea1cd1e8c8ad1c68ed8d0b6f7f1/All%20Screenshots/allure%20timeline%20section.png )
 
+---
+
+## Extent Report Screenshots
+### Dashboard
+![Dashboard](https://github.com/Code-By-Adarsh/QA-Automation-Assignment/blob/43123481a819d526c27f6994f8df2cc031e55b4b/All%20Screenshots/extent%20report%20dashboard.png )
+
+### Environment
+![Environment](https://github.com/Code-By-Adarsh/QA-Automation-Assignment/blob/43123481a819d526c27f6994f8df2cc031e55b4b/All%20Screenshots/extent%20report%20environment.png )
+
+### Summary
+![Summary](https://github.com/Code-By-Adarsh/QA-Automation-Assignment/blob/43123481a819d526c27f6994f8df2cc031e55b4b/All%20Screenshots/extent%20report%20summary.png )
+
+### Timeline
+![Timeline](https://github.com/Code-By-Adarsh/QA-Automation-Assignment/blob/43123481a819d526c27f6994f8df2cc031e55b4b/All%20Screenshots/extent%20report%20timeline.png )
 
 ---
 
+## IntelliJ Idea Ouput
+![Output](https://github.com/Code-By-Adarsh/QA-Automation-Assignment/blob/43123481a819d526c27f6994f8df2cc031e55b4b/All%20Screenshots/IntelliJ%20Idea%20Output.png)
+
+---
+
+## Testng HTML Report
+![Html Report](https://github.com/Code-By-Adarsh/QA-Automation-Assignment/blob/43123481a819d526c27f6994f8df2cc031e55b4b/All%20Screenshots/testng%20default%20html%20report.png)
+
+---
 ##  Test Execution Summary
 
 | Metric | Result |
@@ -106,3 +129,25 @@ QA-Automation-Assignment/<br>
 └── testng.xml<br>
 
 ---
+
+### :gear: How to Run the Project
+
+#### **1. Clone the Repository**
+```bash
+git clone https://github.com/Code-By-Adarsh/QA-Automation-Assignment.git
+```
+#### **2. Open it in IntelliJ Idea and other IDE's**
+#### **3. Download Mvn and Allure**
+#### **4. Set that in System variable**
+#### **5. Run in IDE's through testng.xml**
+#### **6. Give command in CLI**
+```bash
+allure serve allure0results
+```
+
+---
+
+## :handshake: Author
+
+Adarsh Jayprakash Mishra<br>
+🎓 B.Sc Computer Science | QA Automation Enthusiast
