@@ -34,8 +34,34 @@ It automates all five login scenarios and includes a professional **Extent Repor
 
 ---
 ## Allure Report Sreenshots
+### Behaviour Section
+![Behaviour Section](https://github.com/Code-By-Adarsh/QA-Automation-Assignment/blob/18127dee8648aea1cd1e8c8ad1c68ed8d0b6f7f1/All%20Screenshots/allure%20behaviour%20section.png )
 
-![Login Page](https://github.com/Code-By-Adarsh/Automation-Testing-Projects/blob/79517bae3719b0a3da7f45ac87c8e0987423db04/Project_3_EcomAutomationFramework/All%20Screenshots/Sauce%20Demo%20Login%20Page.png)
+### Category Section
+![Category Section](https://github.com/Code-By-Adarsh/QA-Automation-Assignment/blob/18127dee8648aea1cd1e8c8ad1c68ed8d0b6f7f1/All%20Screenshots/allure%20category%20section.png )
+
+### Duration Graph
+![Duration Graph](https://github.com/Code-By-Adarsh/QA-Automation-Assignment/blob/18127dee8648aea1cd1e8c8ad1c68ed8d0b6f7f1/All%20Screenshots/allure%20duration%20graph.png )
+
+### Package Secion
+![Package Section](https://github.com/Code-By-Adarsh/QA-Automation-Assignment/blob/18127dee8648aea1cd1e8c8ad1c68ed8d0b6f7f1/All%20Screenshots/allure%20packages%20section.png )
+
+### Dashboard Section
+![Dashboard](https://github.com/Code-By-Adarsh/QA-Automation-Assignment/blob/18127dee8648aea1cd1e8c8ad1c68ed8d0b6f7f1/All%20Screenshots/allure%20report%20dashboard.png )
+
+### Severity Graph
+![Severity Graph](https://github.com/Code-By-Adarsh/QA-Automation-Assignment/blob/18127dee8648aea1cd1e8c8ad1c68ed8d0b6f7f1/All%20Screenshots/allure%20severity%20graph.png )
+
+### Status
+!{Status](https://github.com/Code-By-Adarsh/QA-Automation-Assignment/blob/18127dee8648aea1cd1e8c8ad1c68ed8d0b6f7f1/All%20Screenshots/allure%20status.png )
+
+### Suites Section
+![Suite Section](https://github.com/Code-By-Adarsh/QA-Automation-Assignment/blob/18127dee8648aea1cd1e8c8ad1c68ed8d0b6f7f1/All%20Screenshots/allure%20suite%20section.png)
+
+### Timeline Section
+![Timeline Section](https://github.com/Code-By-Adarsh/QA-Automation-Assignment/blob/18127dee8648aea1cd1e8c8ad1c68ed8d0b6f7f1/All%20Screenshots/allure%20timeline%20section.png )
+
+
 ---
 
 ##  Test Execution Summary
