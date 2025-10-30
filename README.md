@@ -142,7 +142,7 @@ git clone https://github.com/Code-By-Adarsh/QA-Automation-Assignment.git
 #### **5. Run in IDE's through testng.xml**
 #### **6. Give command in CLI**
 ```bash
-allure serve allure0results
+allure serve allure-results
 ```
 
 ---
